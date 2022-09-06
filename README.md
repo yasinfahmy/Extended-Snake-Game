@@ -11,9 +11,10 @@ Personal Highscore: 101 <br/>
 - Solved collision a bug, which was caused by pressing two keys at once
  
  ## Pictures
-![Colored Snake](https://github.com/yasinfahmy/Snake-On-Steroids/blob/main/Snake/images/ColoredSnake.png)
-![Golden Snake](https://github.com/yasinfahmy/Snake-On-Steroids/blob/main/Snake/images/GoldenSnake.png)
-![Green Snake](https://github.com/yasinfahmy/Snake-On-Steroids/blob/main/Snake/images/GreenSnake.png)
-![Game Over](https://github.com/yasinfahmy/Snake-On-Steroids/blob/main/Snake/images/GameOver.png)
+<img src="https://github.com/yasinfahmy/Snake-On-Steroids/blob/main/Snake/images/ColoredSnake.png" width="450" height="450"/>
+<img src="https://github.com/yasinfahmy/Snake-On-Steroids/blob/main/Snake/images/GoldenSnake.png" width="450" height="450"/>
+<img src="https://github.com/yasinfahmy/Snake-On-Steroids/blob/main/Snake/images/GreenSnake.png" width="450" height="450"/>
+<img src="https://github.com/yasinfahmy/Snake-On-Steroids/blob/main/Snake/images/GameOver.png" width="450" height="450"/>
+
 
  [^1]: https://www.youtube.com/watch?v=bI6e6qjJ8JQ
