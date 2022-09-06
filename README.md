@@ -4,7 +4,7 @@ This is a program about the well known snake game. The only difference is, that 
 Personal Highscore: 101, let me know if you get a better one ;)
 *link
 
-## Aditional Features
+## Additional Features
 - Implemented a new feature with golden apples that makes the snake invulnerable.
 - Implemented timers for the "color effect" and invulnerability.
 - Made it possible to restart the game in the end screen
