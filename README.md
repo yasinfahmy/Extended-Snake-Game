@@ -1,4 +1,4 @@
-# Snake On Steroids
+# Extended Snake Game
 This is a program about the well known snake game. The only difference is, that there is always a chance of a golden apple spawning. When eating it, the snake becomes immortal and can not collide with itself nor the borders. This projects was inspired by and based upon a video on YouTube, provided by @Bro Code. [^1]
 
 Personal Highscore: 101 <br/>
